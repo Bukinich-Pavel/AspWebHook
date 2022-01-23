@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "XAdoI1d4qJrVXUTiIu/ecjXzjccJBgcE5vME7YzhR0E=",
+  "Source": "Telegram.Bot.Examples.WebHook",
+  "BasePath": "_content/Telegram.Bot.Examples.WebHook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

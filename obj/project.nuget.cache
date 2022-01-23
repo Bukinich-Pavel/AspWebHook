@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PZxZtm5oza8gkWr/wQdVKG+LPpTtJmzoJAUioIt1L3dRWALvmJH6eBZdp3Za2/OHxVrOuGAmAKS+XdFBNP9LiA==",
+  "success": true,
+  "projectFilePath": "D:\\TelegaBot\\test\\Telegram.Bot.Examples.WebHook\\Telegram.Bot.Examples.WebHook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bukin\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.1\\microsoft.aspnetcore.jsonpatch.6.0.1.nupkg.sha512",
+    "C:\\Users\\bukin\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.1\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.1.nupkg.sha512",
+    "C:\\Users\\bukin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\bukin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\bukin\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\bukin\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
